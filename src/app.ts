@@ -1,20 +1,12 @@
 import { swaggerUI } from '@hono/swagger-ui'
 import createApp from '@/lib/create-app.js'
-import index from '@/routes/index.routes.js'
-import rankings from '@/routes/rankings/rankings.index.js'
+import rankingRoutes from '@/routes/rankings/index.js'
 import configureOpenAPI from './lib/configure-open-api.js'
 
 const app = createApp()
 configureOpenAPI(app)
 
-const routes = [
-  index,
-  rankings,
-]
-
-routes.forEach((route) => {
-  app.route('/', route)
-})
+app.route('/rankings', rankingRoutes)
 
 app.use('/swagger', swaggerUI({ url: '/doc' }))
 
