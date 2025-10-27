@@ -1,0 +1,340 @@
+{
+  "fifa": {
+    "men": {
+      "2025": {
+        "rankings": [
+          { "position": 1, "team": "Spain", "points": 1880.76, "change": 0 },
+          { "position": 2, "team": "Argentina", "points": 1872.43, "change": 1 },
+          { "position": 3, "team": "France", "points": 1862.71, "change": -1 },
+          { "position": 4, "team": "England", "points": 1824.30, "change": 0 },
+          { "position": 5, "team": "Portugal", "points": 1778.00, "change": 0 },
+          { "position": 6, "team": "Netherlands", "points": 1759.96, "change": 1 },
+          { "position": 7, "team": "Brazil", "points": 1758.85, "change": -1 },
+          { "position": 8, "team": "Belgium", "points": 1740.01, "change": 0 },
+          { "position": 9, "team": "Italy", "points": 1717.15, "change": 1 },
+          { "position": 10, "team": "Germany", "points": 1713.30, "change": 2 }
+        ],
+        "lastUpdated": "2025-10-17"
+      },
+      "2024": {
+        "rankings": [
+          { "position": 1, "team": "Argentina", "points": 1855.20, "change": 0 },
+          { "position": 2, "team": "France", "points": 1845.44, "change": 0 },
+          { "position": 3, "team": "Spain", "points": 1832.00, "change": 2 },
+          { "position": 4, "team": "England", "points": 1800.05, "change": -1 },
+          { "position": 5, "team": "Brazil", "points": 1784.37, "change": -1 },
+          { "position": 6, "team": "Belgium", "points": 1768.14, "change": 0 },
+          { "position": 7, "team": "Portugal", "points": 1750.32, "change": 1 },
+          { "position": 8, "team": "Netherlands", "points": 1745.61, "change": -1 },
+          { "position": 9, "team": "Italy", "points": 1724.06, "change": 0 },
+          { "position": 10, "team": "Croatia", "points": 1720.50, "change": 1 }
+        ],
+        "lastUpdated": "2024-12-19"
+      },
+      "2023": {
+        "rankings": [
+          { "position": 1, "team": "Argentina", "points": 1840.93, "change": 0 },
+          { "position": 2, "team": "France", "points": 1838.45, "change": 0 },
+          { "position": 3, "team": "Brazil", "points": 1828.27, "change": 1 },
+          { "position": 4, "team": "Belgium", "points": 1789.58, "change": -1 },
+          { "position": 5, "team": "England", "points": 1780.05, "change": 0 },
+          { "position": 6, "team": "Netherlands", "points": 1731.23, "change": 0 },
+          { "position": 7, "team": "Portugal", "points": 1727.02, "change": 0 },
+          { "position": 8, "team": "Spain", "points": 1715.22, "change": 1 },
+          { "position": 9, "team": "Italy", "points": 1713.86, "change": -1 },
+          { "position": 10, "team": "Croatia", "points": 1710.75, "change": 0 }
+        ],
+        "lastUpdated": "2023-12-21"
+      },
+      "2022": {
+        "rankings": [
+          { "position": 1, "team": "Brazil", "points": 1840.77, "change": 0 },
+          { "position": 2, "team": "Belgium", "points": 1816.71, "change": 0 },
+          { "position": 3, "team": "Argentina", "points": 1773.88, "change": 1 },
+          { "position": 4, "team": "France", "points": 1759.78, "change": -1 },
+          { "position": 5, "team": "England", "points": 1728.47, "change": 0 },
+          { "position": 6, "team": "Spain", "points": 1715.22, "change": 1 },
+          { "position": 7, "team": "Italy", "points": 1713.86, "change": 1 },
+          { "position": 8, "team": "Netherlands", "points": 1694.51, "change": -2 },
+          { "position": 9, "team": "Portugal", "points": 1676.56, "change": 0 },
+          { "position": 10, "team": "Denmark", "points": 1665.47, "change": 0 }
+        ],
+        "lastUpdated": "2022-12-22"
+      },
+      "2021": {
+        "rankings": [
+          { "position": 1, "team": "Belgium", "points": 1832.33, "change": 0 },
+          { "position": 2, "team": "Brazil", "points": 1820.28, "change": 0 },
+          { "position": 3, "team": "France", "points": 1779.41, "change": 0 },
+          { "position": 4, "team": "England", "points": 1755.52, "change": 0 },
+          { "position": 5, "team": "Argentina", "points": 1750.51, "change": 1 },
+          { "position": 6, "team": "Italy", "points": 1740.77, "change": 1 },
+          { "position": 7, "team": "Spain", "points": 1704.75, "change": -2 },
+          { "position": 8, "team": "Portugal", "points": 1660.25, "change": 0 },
+          { "position": 9, "team": "Denmark", "points": 1632.09, "change": 1 },
+          { "position": 10, "team": "Netherlands", "points": 1631.78, "change": -1 }
+        ],
+        "lastUpdated": "2021-12-23"
+      }
+    },
+    "women": {
+      "2025": {
+        "rankings": [
+          { "position": 1, "team": "Spain", "points": 2066.79, "change": 0 },
+          { "position": 2, "team": "United States", "points": 2065.06, "change": 0 },
+          { "position": 3, "team": "Sweden", "points": 2025.26, "change": 0 },
+          { "position": 4, "team": "England", "points": 2022.64, "change": 0 },
+          { "position": 5, "team": "Germany", "points": 2011.56, "change": 0 },
+          { "position": 6, "team": "France", "points": 1988.68, "change": 0 },
+          { "position": 7, "team": "Brazil", "points": 1976.30, "change": 0 },
+          { "position": 8, "team": "Japan", "points": 1971.05, "change": 0 },
+          { "position": 9, "team": "Canada", "points": 1967.83, "change": 0 },
+          { "position": 10, "team": "North Korea", "points": 1944.22, "change": 0 }
+        ],
+        "lastUpdated": "2025-08-07"
+      },
+      "2024": {
+        "rankings": [
+          { "position": 1, "team": "United States", "points": 2090.03, "change": 0 },
+          { "position": 2, "team": "Spain", "points": 2040.77, "change": 1 },
+          { "position": 3, "team": "Germany", "points": 2035.52, "change": -1 },
+          { "position": 4, "team": "England", "points": 2025.41, "change": 0 },
+          { "position": 5, "team": "Sweden", "points": 2015.11, "change": 0 },
+          { "position": 6, "team": "France", "points": 1995.13, "change": 0 },
+          { "position": 7, "team": "Brazil", "points": 1983.06, "change": 0 },
+          { "position": 8, "team": "Japan", "points": 1975.45, "change": 0 },
+          { "position": 9, "team": "Canada", "points": 1970.88, "change": 0 },
+          { "position": 10, "team": "Netherlands", "points": 1950.12, "change": 0 }
+        ],
+        "lastUpdated": "2024-12-13"
+      },
+      "2023": {
+        "rankings": [
+          { "position": 1, "team": "United States", "points": 2087.48, "change": 0 },
+          { "position": 2, "team": "Germany", "points": 2065.03, "change": 0 },
+          { "position": 3, "team": "Sweden", "points": 2048.88, "change": 0 },
+          { "position": 4, "team": "England", "points": 2038.50, "change": 0 },
+          { "position": 5, "team": "Spain", "points": 2024.46, "change": 1 },
+          { "position": 6, "team": "France", "points": 2018.39, "change": -1 },
+          { "position": 7, "team": "Brazil", "points": 1990.22, "change": 0 },
+          { "position": 8, "team": "Netherlands", "points": 1975.81, "change": 0 },
+          { "position": 9, "team": "Canada", "points": 1972.40, "change": 0 },
+          { "position": 10, "team": "Japan", "points": 1960.89, "change": 0 }
+        ],
+        "lastUpdated": "2023-12-08"
+      },
+      "2022": {
+        "rankings": [
+          { "position": 1, "team": "United States", "points": 2095.29, "change": 0 },
+          { "position": 2, "team": "Germany", "points": 2077.41, "change": 0 },
+          { "position": 3, "team": "Sweden", "points": 2068.81, "change": 0 },
+          { "position": 4, "team": "England", "points": 2045.52, "change": 1 },
+          { "position": 5, "team": "France", "points": 2037.50, "change": -1 },
+          { "position": 6, "team": "Spain", "points": 2005.83, "change": 0 },
+          { "position": 7, "team": "Brazil", "points": 1997.48, "change": 0 },
+          { "position": 8, "team": "Netherlands", "points": 1991.39, "change": 0 },
+          { "position": 9, "team": "Canada", "points": 1980.00, "change": 0 },
+          { "position": 10, "team": "Australia", "points": 1968.40, "change": 0 }
+        ],
+        "lastUpdated": "2022-12-09"
+      },
+      "2021": {
+        "rankings": [
+          { "position": 1, "team": "United States", "points": 2100.23, "change": 0 },
+          { "position": 2, "team": "Germany", "points": 2081.28, "change": 0 },
+          { "position": 3, "team": "Sweden", "points": 2073.54, "change": 1 },
+          { "position": 4, "team": "France", "points": 2063.29, "change": -1 },
+          { "position": 5, "team": "Netherlands", "points": 2045.04, "change": 0 },
+          { "position": 6, "team": "England", "points": 2021.96, "change": 0 },
+          { "position": 7, "team": "Spain", "points": 2002.11, "change": 0 },
+          { "position": 8, "team": "Brazil", "points": 1990.11, "change": 0 },
+          { "position": 9, "team": "Canada", "points": 1985.40, "change": 0 },
+          { "position": 10, "team": "Australia", "points": 1976.87, "change": 0 }
+        ],
+        "lastUpdated": "2021-12-10"
+      }
+    }
+  },
+  "icc": {
+    "men": {
+      "t20": {
+        "2025": {
+          "rankings": [
+            { "position": 1, "team": "India", "rating": 272, "matches": 64 },
+            { "position": 2, "team": "Australia", "rating": 268, "matches": 39 },
+            { "position": 3, "team": "England", "rating": 258, "matches": 45 },
+            { "position": 4, "team": "New Zealand", "rating": 250, "matches": 49 },
+            { "position": 5, "team": "South Africa", "rating": 241, "matches": 46 },
+            { "position": 6, "team": "West Indies", "rating": 235, "matches": 33 },
+            { "position": 7, "team": "Pakistan", "rating": 233, "matches": 47 },
+            { "position": 8, "team": "Sri Lanka", "rating": 230, "matches": 50 },
+            { "position": 9, "team": "Bangladesh", "rating": 225, "matches": 55 },
+            { "position": 10, "team": "Afghanistan", "rating": 217, "matches": 48 }
+          ],
+          "lastUpdated": "2025-10-23"
+        }
+      },
+      "odi": {
+        "2025": {
+          "rankings": [
+            { "position": 1, "team": "India", "rating": 122, "matches": 35 },
+            { "position": 2, "team": "New Zealand", "rating": 110, "matches": 40 },
+            { "position": 3, "team": "Australia", "rating": 109, "matches": 30 },
+            { "position": 4, "team": "Sri Lanka", "rating": 103, "matches": 45 },
+            { "position": 5, "team": "Pakistan", "rating": 100, "matches": 38 },
+            { "position": 6, "team": "South Africa", "rating": 99, "matches": 25 },
+            { "position": 7, "team": "Afghanistan", "rating": 95, "matches": 42 },
+            { "position": 8, "team": "England", "rating": 87, "matches": 40 },
+            { "position": 9, "team": "West Indies", "rating": 79, "matches": 35 },
+            { "position": 10, "team": "Bangladesh", "rating": 76, "matches": 48 }
+          ],
+          "lastUpdated": "2025-10-23"
+        }
+      },
+      "test": {
+        "2025": {
+          "rankings": [
+            { "position": 1, "team": "Australia", "rating": 124, "matches": 30 },
+            { "position": 2, "team": "England", "rating": 112, "matches": 40 },
+            { "position": 3, "team": "South Africa", "rating": 111, "matches": 28 },
+            { "position": 4, "team": "India", "rating": 108, "matches": 36 },
+            { "position": 5, "team": "New Zealand", "rating": 96, "matches": 35 },
+            { "position": 6, "team": "Sri Lanka", "rating": 88, "matches": 33 },
+            { "position": 7, "team": "Pakistan", "rating": 82, "matches": 30 },
+            { "position": 8, "team": "West Indies", "rating": 70, "matches": 32 },
+            { "position": 9, "team": "Bangladesh", "rating": 61, "matches": 37 },
+            { "position": 10, "team": "Ireland", "rating": 30, "matches": 15 }
+          ],
+          "lastUpdated": "2025-10-23"
+        }
+      }
+    },
+    "women": {
+      "t20": {
+        "2025": {
+          "rankings": [
+            { "position": 1, "team": "Australia", "rating": 297, "matches": 39 },
+            { "position": 2, "team": "England", "rating": 279, "matches": 42 },
+            { "position": 3, "team": "India", "rating": 260, "matches": 45 },
+            { "position": 4, "team": "New Zealand", "rating": 251, "matches": 40 },
+            { "position": 5, "team": "South Africa", "rating": 242, "matches": 35 },
+            { "position": 6, "team": "West Indies", "rating": 242, "matches": 33 },
+            { "position": 7, "team": "Sri Lanka", "rating": 229, "matches": 44 },
+            { "position": 8, "team": "Pakistan", "rating": 219, "matches": 39 },
+            { "position": 9, "team": "Bangladesh", "rating": 195, "matches": 42 },
+            { "position": 10, "team": "Ireland", "rating": 194, "matches": 33 }
+          ],
+          "lastUpdated": "2025-03-23"
+        }
+      }
+    }
+  },
+  "fiba": {
+    "men": {
+      "2025": {
+        "rankings": [
+          { "position": 1, "team": "United States", "points": 845.8 },
+          { "position": 2, "team": "Germany", "points": 765.9 },
+          { "position": 3, "team": "Serbia", "points": 761.8 },
+          { "position": 4, "team": "France", "points": 756.5 },
+          { "position": 5, "team": "Canada", "points": 753.1 },
+          { "position": 6, "team": "Australia", "points": 740.2 },
+          { "position": 7, "team": "Spain", "points": 720.3 },
+          { "position": 8, "team": "Argentina", "points": 708.3 },
+          { "position": 9, "team": "Lithuania", "points": 702.5 },
+          { "position": 10, "team": "Brazil", "points": 699.4 }
+        ],
+        "lastUpdated": "2025-09-15"
+      }
+    },
+    "women": {
+      "2025": {
+        "rankings": [
+          { "position": 1, "team": "United States", "points": 880.9 },
+          { "position": 2, "team": "Australia", "points": 719.6 },
+          { "position": 3, "team": "France", "points": 719.2 },
+          { "position": 4, "team": "China", "points": 712.7 },
+          { "position": 5, "team": "Belgium", "points": 702.1 },
+          { "position": 6, "team": "Spain", "points": 698.2 },
+          { "position": 7, "team": "Canada", "points": 661.6 },
+          { "position": 8, "team": "Nigeria", "points": 640.1 },
+          { "position": 9, "team": "Brazil", "points": 637.8 },
+          { "position": 10, "team": "Serbia", "points": 615.2 }
+        ],
+        "lastUpdated": "2025-08-08"
+      }
+    }
+  },
+  "fih": {
+    "men": {
+      "2025": {
+        "rankings": [
+          { "position": 1, "team": "Netherlands", "points": 3267.0 },
+          { "position": 2, "team": "England", "points": 3139.0 },
+          { "position": 3, "team": "Belgium", "points": 3124.0 },
+          { "position": 4, "team": "Germany", "points": 3066.0 },
+          { "position": 5, "team": "India", "points": 2955.0 },
+          { "position": 6, "team": "Australia", "points": 2814.0 },
+          { "position": 7, "team": "Argentina", "points": 2722.0 },
+          { "position": 8, "team": "Spain", "points": 2570.0 },
+          { "position": 9, "team": "France", "points": 2116.0 },
+          { "position": 10, "team": "Ireland", "points": 2112.0 }
+        ],
+        "lastUpdated": "2025-04-24"
+      }
+    },
+    "women": {
+      "2025": {
+        "rankings": [
+          { "position": 1, "team": "Netherlands", "points": 3681.77 },
+          { "position": 2, "team": "Argentina", "points": 3220.83 },
+          { "position": 3, "team": "Belgium", "points": 2963.11 },
+          { "position": 4, "team": "China", "points": 2813.01 },
+          { "position": 5, "team": "Spain", "points": 2676.74 },
+          { "position": 6, "team": "Germany", "points": 2667.16 },
+          { "position": 7, "team": "Australia", "points": 2658.30 },
+          { "position": 8, "team": "England", "points": 2465.96 },
+          { "position": 9, "team": "India", "points": 2235.39 },
+          { "position": 10, "team": "New Zealand", "points": 2218.55 }
+        ],
+        "lastUpdated": "2025-09-10"
+      }
+    }
+  },
+  "fivb": {
+    "men": {
+      "2025": {
+        "rankings": [
+          { "position": 1, "team": "Poland", "points": 410.0 },
+          { "position": 2, "team": "Italy", "points": 397.0 },
+          { "position": 3, "team": "France", "points": 385.0 },
+          { "position": 4, "team": "United States", "points": 372.0 },
+          { "position": 5, "team": "Japan", "points": 360.0 },
+          { "position": 6, "team": "Brazil", "points": 352.0 },
+          { "position": 7, "team": "Slovenia", "points": 340.0 },
+          { "position": 8, "team": "Argentina", "points": 332.0 },
+          { "position": 9, "team": "Germany", "points": 325.0 },
+          { "position": 10, "team": "Canada", "points": 318.0 }
+        ],
+        "lastUpdated": "2025-01-08"
+      }
+    },
+    "women": {
+      "2025": {
+        "rankings": [
+          { "position": 1, "team": "Italy", "points": 405.0 },
+          { "position": 2, "team": "Turkey", "points": 392.0 },
+          { "position": 3, "team": "Brazil", "points": 378.0 },
+          { "position": 4, "team": "United States", "points": 365.0 },
+          { "position": 5, "team": "China", "points": 358.0 },
+          { "position": 6, "team": "Poland", "points": 345.0 },
+          { "position": 7, "team": "Japan", "points": 338.0 },
+          { "position": 8, "team": "Serbia", "points": 330.0 },
+          { "position": 9, "team": "Netherlands", "points": 322.0 },
+          { "position": 10, "team": "Germany", "points": 315.0 }
+        ],
+        "lastUpdated": "2025-09-07"
+      }
+    }
+  }
+}
